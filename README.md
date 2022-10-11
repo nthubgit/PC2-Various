@@ -1,2 +1,2 @@
 # PC2-Various
-Various assignments from Programming Concepts 2 class
+Various Java assignments from Programming Concepts 2 & Algorithms classes
